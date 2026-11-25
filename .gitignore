@@ -1,0 +1,14 @@
+# Python virtual environments
+roullete/
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
